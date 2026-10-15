@@ -1,0 +1,22 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Backend (Maven & Java)
+backend/target/
+backend/.mvn/
+backend/*.log
+backend/uploads/
+backend/data/
+*.class
+
+# Frontend (Node & Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
